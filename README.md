@@ -5,20 +5,18 @@ A recent graudate from FIU with a BS degree in Computer Science. I grew a ❤️
 I been working with different languages getting my feet wet, but grew a passion for Mobile Developement. I am hoping to get my first job as an Android Developer.
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning user input, design, and testing 
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 <br>
 
-##Let's Connect 🤝
+## Let's Connect 🤝
 
 <a href="https://www.linkedin.com/in/stephanie-cliett/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-##Skill Set 💪:
+## Skill Set 💪:
 These are some of the technologies I use or worked on in the past:
 
 **Programming Languages**
@@ -37,18 +35,18 @@ These are some of the technologies I use or worked on in the past:
 
 **Databases**
 
-![PostGres](https://img.shields.io/badge/POSTGRES-23316192.svg?&style=for-the-badge&logo=postgres&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 **Tools**
 
 ![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
+![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=for-the-badge&logo=visual-studio-code)&nbsp;
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 **Other knowledge**
 
-![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
-![RasberryPi](https://img.shields.io/badge/RASBERRYPI-A22846.svg?&style=for-the-badge&logo=rasberrypi&logoColor=white)&nbsp;
+![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
+![RasberryPi](https://img.shields.io/badge/RASBERRYPI-A22846.svg?&style=for-the-badge&logo=rasberrypilogo&logoColor=white)&nbsp;
 
 <br>
