@@ -27,6 +27,7 @@ These are some of the technologies I use or worked on in the past:
 ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow.svg?&style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 
 
 **Libraries and Frameworks**
