@@ -2,11 +2,11 @@
 
 A recent graudate from FIU with a BS degree in Computer Science. I grew a ❤️ for tech since high school when I took an animation class. In college I started as a graphics major (my college did not have animation), but after some research I found it is very competitive and hard to be recognized. 💭 So, I changed my major to health, worked in health but still had an itch for technology. Returned to college, FIU to be exact, and majored in Computer Science.💥 
 
-I been working with different languages getting my feet wet, but grew a passion for Mobile Developement. I am hoping to get my first job as an Android Developer.
+I been working with different languages getting my feet wet, but grew a passion for Web Developement. I am hoping to get my first job as an Frontend Developer.
 
 
-- 🔭 I’m currently working on Android Development
-- 🌱 I’m currently learning user input, design, and testing 
+- 🔭 I’m currently working on Frontend Development
+- 🌱 I’m currently learning HTML5, modern CSS techniques, and JavaScript  
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 <br>
